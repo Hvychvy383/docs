@@ -99,4 +99,4 @@ jobs:
         uses: andymckay/labeler@e6c4322d0397f3240f0e7e30a33b5c5df2d39e90
         with:
           repo-token: '${{ secrets.DOCS_BOT_PAT_WORKFLOW_READORG }}'
-          remove-labels: 'docs-content-fr'
+          
